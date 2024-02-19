@@ -1,0 +1,127 @@
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\appsettings.json
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.staticwebassets.runtime.json
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.exe
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.deps.json
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.runtimeconfig.json
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.pdb
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.csproj.AssemblyReference.cache
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.AssemblyInfoInputs.cache
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.AssemblyInfo.cs
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.csproj.CoreCompileInputs.cache
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.RazorAssemblyInfo.cache
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.RazorAssemblyInfo.cs
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.AboutCatFinalProjectHuynhLavana.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.build.AboutCatFinalProjectHuynhLavana.props
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AboutCatFinalProjectHuynhLavana.props
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AboutCatFinalProjectHuynhLavana.props
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\scopedcss\bundle\AboutCatFinalProjectHuynhLavana.styles.css
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\scopedcss\projectbundle\AboutCatFinalProjectHuynhLavana.bundle.scp.css
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.csproj.CopyComplete
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\refint\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.pdb
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.genruntimeconfig.cache
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\ref\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\realc\source\repos\AboutCatFinalProjectHuynhLavana\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.sourcelink.json
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\appsettings.json
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.staticwebassets.runtime.json
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.exe
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.deps.json
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.runtimeconfig.json
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.pdb
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.csproj.AssemblyReference.cache
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.AssemblyInfoInputs.cache
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.AssemblyInfo.cs
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.csproj.CoreCompileInputs.cache
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.RazorAssemblyInfo.cache
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.RazorAssemblyInfo.cs
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.AboutCatFinalProjectHuynhLavana.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.build.AboutCatFinalProjectHuynhLavana.props
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AboutCatFinalProjectHuynhLavana.props
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AboutCatFinalProjectHuynhLavana.props
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\scopedcss\bundle\AboutCatFinalProjectHuynhLavana.styles.css
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\scopedcss\projectbundle\AboutCatFinalProjectHuynhLavana.bundle.scp.css
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCat.8BE4E1DB.Up2Date
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\refint\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.pdb
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.genruntimeconfig.cache
+C:\Users\need2\Pictures\C# II\FINAL-PROJECT\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\ref\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\appsettings.json
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.staticwebassets.runtime.json
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.exe
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.deps.json
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.runtimeconfig.json
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\AboutCatFinalProjectHuynhLavana.pdb
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.csproj.AssemblyReference.cache
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.AssemblyInfoInputs.cache
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.AssemblyInfo.cs
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.csproj.CoreCompileInputs.cache
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.RazorAssemblyInfo.cache
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.RazorAssemblyInfo.cs
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.AboutCatFinalProjectHuynhLavana.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.build.AboutCatFinalProjectHuynhLavana.props
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AboutCatFinalProjectHuynhLavana.props
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AboutCatFinalProjectHuynhLavana.props
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\scopedcss\bundle\AboutCatFinalProjectHuynhLavana.styles.css
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\scopedcss\projectbundle\AboutCatFinalProjectHuynhLavana.bundle.scp.css
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCat.8BE4E1DB.Up2Date
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\refint\AboutCatFinalProjectHuynhLavana.dll
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.pdb
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\AboutCatFinalProjectHuynhLavana.genruntimeconfig.cache
+C:\Users\need2\Pictures\C# II\HH\AboutCatFinalProjectHuynhLavana\obj\Debug\net8.0\ref\AboutCatFinalProjectHuynhLavana.dll
