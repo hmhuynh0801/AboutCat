@@ -14,7 +14,7 @@ namespace YourApplication.Controllers
             // Add more cats as needed
         };
 
-        public IActionResult Index()
+        public IActionResult Gallery()
         {
             // Pass the list of cats to the view
             return View(cats);

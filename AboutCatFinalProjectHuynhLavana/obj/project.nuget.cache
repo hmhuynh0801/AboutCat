@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c5FdQnvE0axy+8AX/gld3cPsi43CPaAjHidePEB5W6w3c35gVYLVvlZvIbdYenAcjbV9x30aUDLbXr+J7/mUeg==",
+  "dgSpecHash": "4JtWp8a81We3TRIyfqH0ZZKjUdewtXFOjLnqXHG566SKz3U7wwgeJqU+t//V/sxwoDPxXejXN+N39vRYgyWW4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\need2\\Pictures\\C# II\\HH\\AboutCatFinalProjectHuynhLavana\\AboutCatFinalProjectHuynhLavana.csproj",
+  "projectFilePath": "C:\\Users\\need2\\Pictures\\SCHOOL\\C# II\\AboutCat\\AboutCatFinalProjectHuynhLavana\\AboutCatFinalProjectHuynhLavana.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HongM\\.nuget\\packages\\microsoft.aspnet.mvc\\5.3.0\\microsoft.aspnet.mvc.5.3.0.nupkg.sha512",
     "C:\\Users\\HongM\\.nuget\\packages\\microsoft.aspnet.razor\\3.3.0\\microsoft.aspnet.razor.3.3.0.nupkg.sha512",

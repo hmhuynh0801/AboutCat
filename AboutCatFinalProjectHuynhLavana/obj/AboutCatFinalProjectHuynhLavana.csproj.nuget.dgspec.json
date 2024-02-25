@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\need2\\Pictures\\C# II\\HH\\AboutCatFinalProjectHuynhLavana\\AboutCatFinalProjectHuynhLavana.csproj": {}
+    "C:\\Users\\need2\\Pictures\\SCHOOL\\C# II\\AboutCat\\AboutCatFinalProjectHuynhLavana\\AboutCatFinalProjectHuynhLavana.csproj": {}
   },
   "projects": {
-    "C:\\Users\\need2\\Pictures\\C# II\\HH\\AboutCatFinalProjectHuynhLavana\\AboutCatFinalProjectHuynhLavana.csproj": {
+    "C:\\Users\\need2\\Pictures\\SCHOOL\\C# II\\AboutCat\\AboutCatFinalProjectHuynhLavana\\AboutCatFinalProjectHuynhLavana.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\need2\\Pictures\\C# II\\HH\\AboutCatFinalProjectHuynhLavana\\AboutCatFinalProjectHuynhLavana.csproj",
+        "projectUniqueName": "C:\\Users\\need2\\Pictures\\SCHOOL\\C# II\\AboutCat\\AboutCatFinalProjectHuynhLavana\\AboutCatFinalProjectHuynhLavana.csproj",
         "projectName": "AboutCatFinalProjectHuynhLavana",
-        "projectPath": "C:\\Users\\need2\\Pictures\\C# II\\HH\\AboutCatFinalProjectHuynhLavana\\AboutCatFinalProjectHuynhLavana.csproj",
+        "projectPath": "C:\\Users\\need2\\Pictures\\SCHOOL\\C# II\\AboutCat\\AboutCatFinalProjectHuynhLavana\\AboutCatFinalProjectHuynhLavana.csproj",
         "packagesPath": "C:\\Users\\HongM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\need2\\Pictures\\C# II\\HH\\AboutCatFinalProjectHuynhLavana\\obj\\",
+        "outputPath": "C:\\Users\\need2\\Pictures\\SCHOOL\\C# II\\AboutCat\\AboutCatFinalProjectHuynhLavana\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HongM\\AppData\\Roaming\\NuGet\\NuGet.Config",
